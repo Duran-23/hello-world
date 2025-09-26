@@ -1,6 +1,7 @@
-#include <stdio.g>
+#include <stdio.h>
 
-int main(void)
+int main (void)
 {
-  printf("hello world\n")
+	printf("Hello world\n")
 }
+// What is up my dudes
